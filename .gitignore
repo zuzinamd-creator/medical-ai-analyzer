@@ -1,0 +1,11 @@
+venv/
+.venv/
+.env
+__pycache__/
+*.pyc
+history/
+screenshots/
+data/images/screenshot_*
+dist/
+build/
+*.exe
