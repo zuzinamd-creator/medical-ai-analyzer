@@ -179,3 +179,9 @@ medical-ai-analyzer/
 ## Лицензия
 
 MIT
+
+## 📞 Контакты
+
+Если вам нужно внедрить подобное решение или автоматизировать бизнес-процессы с помощью AI:
+* **Telegram:** [@Margo_AI_Engineer](https://t.me/Margo_AI_Engineer)
+* **GitHub:** [zuzinamd-creator](https://github.com/zuzinamd-creator)
